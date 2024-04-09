@@ -1,6 +1,0 @@
-node_modules/*
-serverless.yml
-*.log
-worker/
-dist/
-.env
